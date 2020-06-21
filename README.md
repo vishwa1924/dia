@@ -1,0 +1,2 @@
+# dia
+print("hello")
