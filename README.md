@@ -1,2 +1,2 @@
-# dia
-print("hello")
+# diabetes prediction
+
